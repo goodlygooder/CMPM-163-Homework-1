@@ -1,4 +1,4 @@
-# CMPS-163-Homework-1
+
 Homework 1: Jacob Thompson janthomp@ucsc.edu
 
 
